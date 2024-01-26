@@ -1,0 +1,4 @@
+1. Field to put JD
+2. upload PDF
+3. PDF--> image --> preprocessing --> Google Gemini pro
+4. Prompts Template [Multiple Prompts]
